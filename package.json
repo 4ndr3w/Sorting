@@ -1,0 +1,11 @@
+{
+  "name": "sorting",
+  "description": "Event sorting app",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.9.5",
+    "mysql": "~2.5.1",
+    "sequelize": "~2.0.0-rc1",
+    "mongoose": "~3.8.17"
+  }
+}
